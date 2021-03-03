@@ -1,12 +1,12 @@
-version: 0.1.1
+version: 0.1.2
 files:
-  - url: cafis-tools-0.1.1-mac.zip
-    sha512: V4MBNPeQjcvsHKFkWJ74KG5cl2IpKN15zTDCq9uOEqGBz2cXnBD88KsiOL5/cZIcwrhXzE2zaJoRlzzUajjJ7Q==
-    size: 80641188
-    blockMapSize: 83573
-  - url: cafis-tools-0.1.1.dmg
-    sha512: 3dltRQe10/UhWA0l8ZYgLfbO6rNl2u8yOLp4TK9o9hQwHkovN3FoXEBRHN144ZJOc8RBIZHFkJ7UBQAt/ntWuw==
-    size: 84043129
-path: cafis-tools-0.1.1-mac.zip
-sha512: V4MBNPeQjcvsHKFkWJ74KG5cl2IpKN15zTDCq9uOEqGBz2cXnBD88KsiOL5/cZIcwrhXzE2zaJoRlzzUajjJ7Q==
-releaseDate: '2021-03-01T07:19:04.656Z'
+  - url: cafis-tools-0.1.2-mac.zip
+    sha512: XHyDC5RTH6EUQiJShJSi408EE6SytJk+wTXXvyUTN/uOtzhMioRDoxmuoV8QBbgVOAI8XlKSavUV39KPGhVTPQ==
+    size: 80641362
+    blockMapSize: 83665
+  - url: cafis-tools-0.1.2.dmg
+    sha512: 95oC96GQQ7rmtZ9Upgs8s/Vm/ITj3VyQZecm71nu9WS/5hphxrY1WkvUb3YR3AV2tjb/z8Jbrp2AKwi3j06Lyg==
+    size: 84041124
+path: cafis-tools-0.1.2-mac.zip
+sha512: XHyDC5RTH6EUQiJShJSi408EE6SytJk+wTXXvyUTN/uOtzhMioRDoxmuoV8QBbgVOAI8XlKSavUV39KPGhVTPQ==
+releaseDate: '2021-03-03T09:10:07.313Z'
