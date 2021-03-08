@@ -1,8 +1,8 @@
-version: 0.1.2
+version: 0.2.0
 files:
-  - url: cafis-tools Setup 0.1.2.exe
-    sha512: F54FDu1YaNOrdRIkQxx/Vsk6yCxHK5g7gWd1zI+DJkhu+kpcVqKWEYRVZk4I3UYHX/iwg/ruvGwW582xuQlH6A==
-    size: 58540915
-path: cafis-tools Setup 0.1.2.exe
-sha512: F54FDu1YaNOrdRIkQxx/Vsk6yCxHK5g7gWd1zI+DJkhu+kpcVqKWEYRVZk4I3UYHX/iwg/ruvGwW582xuQlH6A==
-releaseDate: '2021-03-03T09:12:32.449Z'
+  - url: cafis-tools Setup 0.2.0.exe
+    sha512: FkgTIOBzptR0zHEpMf/2ErgGGFe+7Az9UPiFquGMkk8ARCZdx4ihRFEC/whUjq63zxOpl9jpRDmjMPUQN3da8g==
+    size: 58901336
+path: cafis-tools Setup 0.2.0.exe
+sha512: FkgTIOBzptR0zHEpMf/2ErgGGFe+7Az9UPiFquGMkk8ARCZdx4ihRFEC/whUjq63zxOpl9jpRDmjMPUQN3da8g==
+releaseDate: '2021-03-08T06:33:07.261Z'
